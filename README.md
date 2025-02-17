@@ -1085,12 +1085,14 @@ _Everything related to the creation and handling of random data._
 - [Randomized Testing](https://github.com/randomizedtesting/randomizedtesting) - JUnit test runner and plugins for running JUnit tests with pseudo-randomness.
 - [Java Faker](https://github.com/DiUS/java-faker) - Port of Ruby's fake data generator.
 - [Mockneat](https://github.com/nomemory/mockneat) - Another fake data generator.
+- [JMock](https://github.com/xcancloud/JMock) - A high-performance data generation and simulation component library implemented in Java.
 
 #### Frameworks
 
 _Provide environments to run tests for a specific use case._
 
 - [Apache JMeter](http://jmeter.apache.org) - Functional testing and performance measurements.
+- [AngusTester](https://github.com/xcancloud/AngusTester) - An intelligent R&D and testing platform that enables small and medium-sized enterprises to establish their own R&D, standardize workflow, and improve work efficiency.
 - [Arquillian](http://arquillian.org) - Integration and functional testing platform for Java EE containers.
 - [cdi-test](https://github.com/guhilling/cdi-test) - JUnit extension for easy and efficient testing of CDI components.
 - [Citrus](https://citrusframework.org) - Integration testing framework that focuses on both client- and server-side messaging.
